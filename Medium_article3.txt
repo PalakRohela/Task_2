@@ -1,0 +1,72 @@
+url: https://medium.com/python-in-plain-english/goodbye-pip-conda-a-better-choice-for-python-dependency-management-poetry-04f1b34e0073
+
+Sign up
+
+Sign in
+
+Sign up
+
+Sign in
+
+Member-only story
+
+Lucas Scott
+
+Follow
+
+Python in Plain English
+
+--
+
+9
+
+Share
+
+At the beginning stages of your data science project, using dependency management tools like pip or conda might be sufficient.
+
+However, as the project grows, the number of dependencies increases. This can make it challenging to reproduce the project’s environment, and maintaining it effectively with just pip or conda may become difficult.
+
+Enter Poetry, an open-source library that provides a powerful tool for creating and maintaining Python projects with a consistent environment. In this article, we will delve into the advantages of Poetry and highlight its key differences from pip and conda.
+
+One-click seamless installation processes that allow swift adoption and integration of software packages into our codebase, saving time and effort.
+
+The installation format in Conda varies for different packages. For instance, to install polars, you need to run:
+
+For pandas, the command is:
+
+Pip maintains a consistent installation format for every package:
+
+Poetry also adheres to the same installation format:
+
+A vast selection of packages makes it easier to find the specific packages and versions that best suit the requirements.
+
+Some packages, such as snscrape, may not be installable through conda. Additionally, certain versions, like Pandas 2.0, might not be…
+
+--
+
+--
+
+9
+
+Python in Plain English
+
+Software Engineer work for a Internet Company. Follow me and let me bring you a ton of useful technical knowledge.
+
+Help
+
+Status
+
+About
+
+Careers
+
+Blog
+
+Privacy
+
+Terms
+
+Text to speech
+
+Teams
+
